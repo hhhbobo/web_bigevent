@@ -8,6 +8,10 @@ body {
     background-size: cover;
 }
 
+.layui-main {
+    padding-top: 20px;
+}
+
 .loginAndRegbox {
     position: absolute;
     top: 50%;

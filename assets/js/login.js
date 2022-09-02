@@ -1,13 +1,13 @@
 $(function () {
     // 登录和注册点击切换
     $("#link-login").on('click', function () {
-        $(".login-box").hide();
-        $(".reg-box").show();
+        $(".login-box").show();
+        $(".reg-box").hide();
     })
 
     $("#link-reg").on('click', function () {
-        $(".reg-box").hide();
-        $(".login-box").show();
+        $(".reg-box").show();
+        $(".login-box").hide();
     })
 
 
